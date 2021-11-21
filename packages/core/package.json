@@ -1,6 +1,6 @@
 {
   "name": "@hcd-cli/core",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "this is core for hcd-cli",
   "keywords": [
     "core"
@@ -30,6 +30,6 @@
     "url": "https://github.com/haochangdi123/hcd-cli/issues"
   },
   "dependencies": {
-    "@hcd-cli/utils": "^0.1.0"
+    "@hcd-cli/utils": "^1.0.0"
   }
 }
