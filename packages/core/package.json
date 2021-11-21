@@ -20,7 +20,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://r.cnpmjs.org/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
